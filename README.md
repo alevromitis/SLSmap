@@ -2,12 +2,8 @@
 Information Techonologies Project
 ---
 
-TODO:
-  - base page -> galaxy (milkyway)
-    - menu -> planet/sun/objects menu options
-    - background (all pages) animated (spinning)
-    - sound effect
-  - planet
-  - sun
-  - objects
-
+!!!IMPORTANT INFORMATION!!!
+  -> ./menu/base.html = homepage
+  -> ./media/* -> .gitignore (media files)
+  -> Public github repo at: https://github.com/alevromitis/SLSmap
+  -> GPLv3 Licence

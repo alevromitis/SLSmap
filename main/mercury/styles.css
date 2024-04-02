@@ -32,11 +32,11 @@
 body {
     margin: 0;
     background-color: #000000;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 div {
   background-color: #B7B8B9;
-  width: "100%";
 }
 
 img {
