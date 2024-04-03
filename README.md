@@ -7,3 +7,4 @@ Information Techonologies Project
   -> ./media/* -> .gitignore (media files)
   -> Public github repo at: https://github.com/alevromitis/SLSmap
   -> GPLv3 Licence
+  
