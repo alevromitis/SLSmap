@@ -1,7 +1,7 @@
 .icon-bar {
     width: 100%;
     background-color: #555;
-    overflow: auto;
+    overflow: hidden;
     position:fixed;
     top: 0;
     }
@@ -10,7 +10,7 @@
     float: left; 
     text-align: center;
     width: 10%; 
-    padding: 12px 0;
+    padding: 12px 0px;
     transition: all 0.5s ease; 
     color: white; 
     font-size: 36px;
