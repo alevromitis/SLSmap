@@ -7,5 +7,6 @@ Information Techonologies Project
   -> ./media/* -> .gitignore (media files)  
   -> Public github repo at: https://github.com/alevromitis/SLSmap  
   -> GPLv3 Licence  
-  -> Media files hosted on: https://drive.google.com/drive/folders/1OE-W02mzm98dxn1gCkL-OJaXhcbYqjuD?usp=sharing    
+  -> Media files hosted on: https://drive.google.com/drive/folders/1OE-W02mzm98dxn1gCkL-OJaXhcbYqjuD?usp=sharing  
+  -> Official site: https://slsmap.duckdns.org
   
