@@ -67,6 +67,11 @@ table, tr, th, td {
   list-style-position: inside;
 }
 
+td:nth-child(odd) {
+  background-color: #ffae00;
+}
+
+
 p {
   text-align: justify;
 }

@@ -66,6 +66,9 @@ table, tr, th, td {
   text-align: center;
   list-style-position: inside;
 }
+td:nth-child(odd) {
+  background-color: #ff5e00;
+}
 
 p {
   text-align: justify;
