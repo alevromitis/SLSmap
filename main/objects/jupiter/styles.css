@@ -45,21 +45,21 @@ img {
 }
 
 h1 {
-  background-color: #c99039;
+  background-color: #522215;
   color: black;
   font-size:300%;
   text-align: center;
   }
 
 h2 {
-  background-color:	#c99039;
+  background-color:	#522215;
   color: black;
   font-size:150%;
   text-align: center;
 }
 
 table, tr, th, td {
-  border: 2px solid black;
+  border: 2px solid #522215;
   padding: 30px;
   border-collapse: collapse;
   margin: auto;
@@ -68,7 +68,7 @@ table, tr, th, td {
 }
 
 p {
-  text-align: center;
+  text-align: justify;
 }
 
 ol, li {
